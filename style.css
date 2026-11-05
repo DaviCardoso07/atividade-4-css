@@ -1,0 +1,36 @@
+a {
+    background-color: lightgreen;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 20px;
+    border: 1px solid;
+    margin: 5px;
+    
+}
+
+a:hover {
+    color: lightcoral;
+}
+
+header {
+    background-color: green;
+    text-align: center;
+    padding: 10px;
+    justify-content: center;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.menu {
+    display: flex;
+    align-items: center;
+}
+.apresentacao {
+    background-color: aquamarine;
+    align-items: center;
+    gap: 20px;
+    padding: 5px;
+    margin: 0px;
+}
